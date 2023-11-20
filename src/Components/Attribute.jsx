@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Attribution Component (Continued)
+
 const Attribute = () => {
     return (
       <div>
